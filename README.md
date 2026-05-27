@@ -35,7 +35,7 @@ An Android application built using Kotlin and Jetpack Compose that displays rand
 
 ![Intro Screen](screenshots/01-intro-screen.jpg)
 
-### Home Screen - Light Mode
+### Home Screen - Dark Mode
 
 ![Home Screen Light Mode](screenshots/02-home-light-mode.jpg)
 
@@ -51,7 +51,7 @@ An Android application built using Kotlin and Jetpack Compose that displays rand
 
 ![Actions And Favorites](screenshots/05-actions-favorites.jpg)
 
-### Home Screen - Dark Mode
+### Home Screen - Light Mode
 
 ![Home Screen Dark Mode](screenshots/06-home-dark-mode.jpg)
 
